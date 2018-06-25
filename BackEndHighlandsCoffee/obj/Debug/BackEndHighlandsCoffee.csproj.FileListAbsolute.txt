@@ -1,0 +1,396 @@
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\ApplicationInsights.config
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\csc.exe
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\System.Collections.Immutable.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\System.Reflection.Metadata.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\vbc.exe
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\VBCSCompiler.exe
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\VBCSCompiler.exe.config
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\BackEndHighlandsCoffee.dll.config
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\BackEndHighlandsCoffee.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\BackEndHighlandsCoffee.pdb
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Antlr3.Runtime.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\EntityFramework.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\EntityFramework.SqlServer.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.DependencyCollector.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.Web.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.WindowsServer.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.ApplicationInsights.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Cookies.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Facebook.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Google.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.OAuth.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Twitter.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Web.Infrastructure.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Newtonsoft.Json.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Owin.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Net.Http.Formatting.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Helpers.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.Owin.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.WebHost.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Mvc.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Optimization.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Razor.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.Deployment.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.Razor.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\WebGrease.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.DependencyCollector.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.Web.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.WindowsServer.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.ApplicationInsights.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Newtonsoft.Json.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Net.Http.Formatting.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Helpers.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.WebHost.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Mvc.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Optimization.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Razor.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.Deployment.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.Razor.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Antlr3.Runtime.pdb
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\EntityFramework.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\EntityFramework.SqlServer.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Facebook.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Cookies.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.OAuth.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Google.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Twitter.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.Owin.xml
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.csprojResolveAssemblyReference.cache
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.dll
+D:\LEARN IT\Janeto\Final\BackEndHighlandsCoffee\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.pdb
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\ApplicationInsights.config
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\csc.exe
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\vbc.exe
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\VBCSCompiler.exe
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\BackEndHighlandsCoffee.dll.config
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\BackEndHighlandsCoffee.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\BackEndHighlandsCoffee.pdb
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Antlr3.Runtime.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\apiModel.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\EntityFramework.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\EntityFramework.SqlServer.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.Web.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Newtonsoft.Json.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Owin.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Net.Http.Formatting.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Helpers.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.Owin.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.WebHost.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Mvc.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Optimization.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Razor.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.Razor.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\WebGrease.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\apiModel.pdb
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\apiModel.dll.config
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.Web.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Newtonsoft.Json.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Net.Http.Formatting.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Helpers.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.WebHost.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Mvc.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Optimization.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Razor.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.Razor.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Antlr3.Runtime.pdb
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\EntityFramework.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\EntityFramework.SqlServer.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.Owin.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.csprojResolveAssemblyReference.cache
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.csproj.CoreCompileInputs.cache
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.csproj.CopyComplete
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.pdb
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\ApplicationInsights.config
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\csc.exe
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\System.Collections.Immutable.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\System.Reflection.Metadata.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\vbc.exe
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\VBCSCompiler.exe
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\roslyn\VBCSCompiler.exe.config
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\BackEndHighlandsCoffee.dll.config
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\BackEndHighlandsCoffee.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\BackEndHighlandsCoffee.pdb
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Antlr3.Runtime.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\apiModel.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\EntityFramework.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\EntityFramework.SqlServer.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.DependencyCollector.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.Web.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.WindowsServer.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.ApplicationInsights.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Cookies.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Facebook.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Google.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.OAuth.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Twitter.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Web.Infrastructure.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Newtonsoft.Json.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Owin.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Net.Http.Formatting.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Helpers.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.Owin.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.WebHost.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Mvc.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Optimization.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Razor.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.Deployment.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.Razor.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\WebGrease.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\apiModel.pdb
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.DependencyCollector.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.Web.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AI.WindowsServer.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.ApplicationInsights.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Newtonsoft.Json.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Net.Http.Formatting.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Helpers.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.WebHost.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Mvc.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Optimization.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Razor.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.Deployment.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.WebPages.Razor.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Antlr3.Runtime.pdb
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\EntityFramework.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\EntityFramework.SqlServer.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Facebook.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Cookies.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.OAuth.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Google.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Twitter.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Http.Owin.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.csprojResolveAssemblyReference.cache
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.pdb
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.IdentityModel.Logging.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.IdentityModel.Tokens.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Cors.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Jwt.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.Web.Cors.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.IdentityModel.Logging.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.IdentityModel.Tokens.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Cors.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Jwt.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\BackEndHighlandsCoffee\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\ApplicationInsights.config
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\roslyn\csc.exe
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\roslyn\System.Collections.Immutable.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\roslyn\System.Reflection.Metadata.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\roslyn\vbc.exe
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\roslyn\VBCSCompiler.exe
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\roslyn\VBCSCompiler.exe.config
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\BackEndHighlandsCoffee.dll.config
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\BackEndHighlandsCoffee.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\BackEndHighlandsCoffee.pdb
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Antlr3.Runtime.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\apiModel.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\EntityFramework.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\EntityFramework.SqlServer.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AI.DependencyCollector.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AI.Web.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AI.WindowsServer.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.ApplicationInsights.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.IdentityModel.Logging.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Cors.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Google.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Web.Infrastructure.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Newtonsoft.Json.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Owin.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Net.Http.Formatting.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Cors.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Helpers.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Http.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Http.Owin.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Http.WebHost.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Mvc.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Optimization.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Razor.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.WebPages.Deployment.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.WebPages.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.WebPages.Razor.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\WebGrease.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\apiModel.pdb
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\apiModel.dll.config
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AI.DependencyCollector.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AI.Web.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AI.WindowsServer.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.ApplicationInsights.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.IdentityModel.Logging.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Cors.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Newtonsoft.Json.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Net.Http.Formatting.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Helpers.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Http.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Http.WebHost.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Mvc.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Optimization.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Razor.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.WebPages.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.WebPages.Deployment.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.WebPages.Razor.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Antlr3.Runtime.pdb
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\EntityFramework.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\EntityFramework.SqlServer.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Google.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Http.Owin.xml
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.csprojResolveAssemblyReference.cache
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.csproj.CoreCompileInputs.cache
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.csproj.CopyComplete
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\obj\Debug\BackEndHighlandsCoffee.pdb
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Http.Cors.dll
+D:\Thuc_tap_janeto\C#\HighlandsCoffee-Huy\BackEndHighlandsCoffee\bin\System.Web.Http.Cors.xml

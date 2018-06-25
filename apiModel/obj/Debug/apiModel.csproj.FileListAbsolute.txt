@@ -1,0 +1,30 @@
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\bin\Debug\apiModel.dll.config
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\bin\Debug\apiModel.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\bin\Debug\apiModel.pdb
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\bin\Debug\EntityFramework.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\bin\Debug\EntityFramework.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\obj\Debug\apiModel.csprojResolveAssemblyReference.cache
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\obj\Debug\apiModel.csproj.CoreCompileInputs.cache
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\obj\Debug\apiModel.csproj.CopyComplete
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\obj\Debug\apiModel.dll
+C:\Users\ngoc\Desktop\JNT\high_langcoffe\HighlandsCoffee\apiModel\obj\Debug\apiModel.pdb
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\bin\Debug\apiModel.dll.config
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\bin\Debug\apiModel.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\bin\Debug\apiModel.pdb
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\bin\Debug\EntityFramework.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\bin\Debug\EntityFramework.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\obj\Debug\apiModel.csprojResolveAssemblyReference.cache
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\obj\Debug\apiModel.dll
+D:\LEARN IT\Janeto\Final\HighlandsCoffee\apiModel\obj\Debug\apiModel.pdb
